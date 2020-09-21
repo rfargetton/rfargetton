@@ -1,7 +1,7 @@
 # Hi, My name is Romaric Fargetton !
 
 I'm a front-end developer, designer and teacher living in Tours, France !
-You can check my projects and read my thoughts on JavaScript and React, amongst other things, at [romaricfargetton.com](https://www.romaricfargetton.com).
+You can check out my projects and read my thoughts on JavaScript and React, amongst other things, at [romaricfargetton.com](https://www.romaricfargetton.com).
 
 ## Find me on the web 👨‍💻
 
