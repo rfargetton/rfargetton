@@ -8,3 +8,5 @@ You can check out my projects and read my thoughts on JavaScript and React, amon
 - Check out my profile and posts on [LinkedIn](https://www.linkedin.com/in/romaric-fargetton/).
 - Take a look at my code and projects on [Github](https://github.com/rfargetton).
 - Follow my progress on [FreeCodeCamp](https://www.freecodecamp.org/rfargetton).
+
+[![Romaric's github stats](https://github-readme-stats.vercel.app/api?username=rfargetton)](https://github.com/anuraghazra/github-readme-stats)
